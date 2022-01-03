@@ -1,0 +1,7 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings" profile="Proximis" />
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="RENAME_VARIABLES_INPLACE" value="false" />
+  </component>
+</application>
