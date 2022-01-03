@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="Proximis" />
+  <option name="myName" value="NSD" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AlterInForeachInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ArrayCastingEquivalentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
