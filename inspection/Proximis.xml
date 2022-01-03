@@ -70,7 +70,7 @@
   <inspection_tool class="OnlyWritesOnParameterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpDocMissingThrowsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="true" level="ERROR" enabled_by_default="true">
+  <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="IGNORE_GLOBAL_NAMESPACE" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
