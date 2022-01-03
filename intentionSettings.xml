@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Import class" />
+    <ignoreAction name="PHP/Simplify FQN" />
+  </component>
+</application>
